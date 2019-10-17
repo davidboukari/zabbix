@@ -1,0 +1,2 @@
+* https://www.syloe.com/supervision-zabbix/ 
+* https://www.monitoring-fr.org/solutions/zabbix/
